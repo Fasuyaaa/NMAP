@@ -25,3 +25,12 @@ Keterangan:
 
 Jika terdapat Port yang terbuka, itu manandakan ada aplikasi yang dapat menerima paket data dari pengirim dan kita bisa Mengakses Port tersebut contohnya jika Port 80 Http terbuka/Open, itu menandakan kita bisa mengakses Website tersebut dan jika Port 80 Close atau Filtered, kita tidak bisa mengakses website tersebut atau jika Port 22 SSH terbuka, kita bisa mengakses Port tersebut untuk melakukan Remote Host atau mengendalikan komputer dari jarak jauh.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+# OS
+LINUX
+
+------------------------------------------------------------
+# Source:
+- https://www.wildantechnoart.net/2017/05/cara-melakukan-port-scanning-dengan-Nmap.html
+
+-------------------------------------------------------------
